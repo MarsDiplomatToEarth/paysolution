@@ -32,4 +32,4 @@
 
 ### 下载(下载不了clone到gitee上然后下载速度快很多)
 
-https://github.com/MarsDiplomatToEarth/paysolution/blob/master/getpayment.apk?raw=true
+安卓端 https://github.com/MarsDiplomatToEarth/paysolution/blob/master/getpayment.apk?raw=true
