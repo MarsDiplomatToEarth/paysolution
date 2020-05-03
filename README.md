@@ -33,3 +33,5 @@
 ### 下载(下载不了clone到gitee上然后下载速度快很多)
 
 安卓端 https://github.com/MarsDiplomatToEarth/paysolution/blob/master/getpayment.apk?raw=true
+
+服务器端(python flask版本) https://github.com/MarsDiplomatToEarth/-python-paysolution/tree/master
